@@ -51,4 +51,3 @@ B.Tech Artificial Intelligence & Data Science
 
 ---
 
-Feel free to modify and customize this README for your project submission! ✅
